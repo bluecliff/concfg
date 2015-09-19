@@ -26,8 +26,8 @@
 
 	"cursor_size": "small", 
 
-	"window_size":        "80x25",
-	"screen_buffer_size": "80x3000",
+	"window_size":        "110x30",
+	"screen_buffer_size": "110x3000",
 
 	"command_history_length": 200,
 	"num_history_buffers":      4,
